@@ -1,3 +1,3 @@
-trigger NewTrigger on SOBJECT (before insert) {
+trigger NewTrigger on Account (before insert) {
 
 }
